@@ -20,3 +20,25 @@ To clone this repository to your local machine, follow these steps:
    ```bash
    git clone https://github.com/yourusername/petconnect.git
    cd petconnect
+Install Dependencies:
+
+bash
+Copy code
+npm install
+Set Up Environment Variables:
+
+bash
+Copy code
+npm start
+By default, the application will be available at http://localhost:3000.
+
+Usage
+Post Ads: After logging in, navigate to the ad creation page to post a new ad.
+Chat: Select the user you want to chat with to start a conversation.
+Veterinarian List: Visit the relevant page to view veterinarians in your vicinity.
+Contributing
+If you would like to contribute, please review the contributing guidelines and submit a pull request.
+
+
+Contact
+For questions or feedback, please contact ali.han.karahdf@gmail.com
