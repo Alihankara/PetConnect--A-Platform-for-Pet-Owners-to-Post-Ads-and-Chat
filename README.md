@@ -21,7 +21,8 @@ To clone this repository to your local machine, follow these steps:
    git clone https://github.com/yourusername/petconnect.git
    cd petconnect
    
-Usage
-Post Ads: After logging in, navigate to the ad creation page to post a new ad.
-Chat: Select the user you want to chat with to start a conversation.
-Veterinarian List: Visit the relevant page to view veterinarians in your vicinity.
+## Usage
+
+- **Post Ads:** After logging in, navigate to the ad creation page to post a new ad.
+- **Chat:** Select the user you want to chat with to start a conversation.
+- **Veterinarian List:** Visit the relevant page to view veterinarians in your vicinity.
