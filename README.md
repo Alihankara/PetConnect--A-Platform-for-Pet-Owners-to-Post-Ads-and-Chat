@@ -1,2 +1,22 @@
 # PetConnect: A Platform for Pet Owners to Post Ads and Chat
  PetConnect is a web platform designed for cat and dog owners to post ads for sales and breeding, communicate with other users, and view a list of veterinarians within a 5km radius. Developed using Node.js and EJS, it offers various features to facilitate interaction among pet owners.
+
+# PetConnect
+
+PetConnect is a web platform that allows cat and dog owners to post ads for sales and breeding, communicate with other users, and view a list of veterinarians within a 5km radius. It is developed using Node.js and EJS.
+
+## Features
+
+- **Post Ads:** Users can create ads for cat and dog sales and breeding.
+- **Chat System:** Registered users can chat with other users in real-time.
+- **Veterinarian List:** View a list of veterinarians within a 5km radius.
+
+## Installation
+
+To clone this repository to your local machine, follow these steps:
+
+1. **Clone the Repository:**
+
+   ```bash
+   git clone https://github.com/yourusername/petconnect.git
+   cd petconnect
